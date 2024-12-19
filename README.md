@@ -21,6 +21,6 @@ This project is a simple To-Do List application developed using **Java** and **M
 ## Setup Instructions  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/username/todolist.git  
+   git clone https://github.com/Ahamid047/todolist.git  
    cd todolist  
 ![img](https://github.com/user-attachments/assets/e55a777d-6c5d-4a8d-b686-1923c0a1d796)
